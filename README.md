@@ -6,10 +6,11 @@ This project is forked from ADI [ADALM-PLUTO ](https://github.com/analogdevicesi
 ## Purchase Link
 For Chinese users: [SDRPi 淘宝链接](https://item.taobao.com/item.htm?id=647986963313#detail)
 
-For Foreign users :Comming soon .
+
+For Foreign users : [SDRPi in aliexpress](https://www.aliexpress.com/item/1005004830016639.html?spm=5261.ProductManageOnline.0.0.b10c4edfN21jfB)
 
  
-
+ 
 ## Build Instructions
 
 The SDRPi Firmware is built with the [Xilinx Vivado 2019.1](https://www.xilinx.com/member/forms/download/xef-vivado.html?filename=Xilinx_Vivado_SDK_Web_2019.1_0524_1430_Lin64.bin). You need to install the correct Vivado Version in your linux PC, and then, you can follow the instructions below to generate the firmware for [sdrpi](https://h5.m.taobao.com/awp/core/detail.htm?ft=t&id=678846437982) .
